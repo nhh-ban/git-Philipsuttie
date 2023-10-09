@@ -1,4 +1,3 @@
-
 library(tidyverse)
 
 # Read the entire data file into memory
